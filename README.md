@@ -1,0 +1,2 @@
+# Python
+różne rzeczy
